@@ -1,0 +1,1 @@
+With .NET, your code the and project files the foo look and files feel the same no matter which type of app
